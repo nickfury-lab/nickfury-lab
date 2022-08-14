@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickfury-lab
+- 👋 Hi, I’m Agus Prasetyo
 - 👀 I’m interested in proggramming and ethical hacking
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cybersecurity
