@@ -35,8 +35,10 @@ def hangman():
         # letters used
         # ' '.join(['a', 'b', 'cd']) --> 'a b cd'
         print("You have ", lives, "lives left and You have used these letters: ", ' '.join(used_letters))
-        if difficult == 'sedang' or 'kata': 
+        if difficult == "sedang" or difficult == "kata": 
             print("The clue is: ", clue)
+        else:
+            print("The clue is English")
         # what current word is (ie W - R D)
         word_list = [letter if letter in used_letters else '-' for letter in word]
         print(lives_visual_dict[lives])
